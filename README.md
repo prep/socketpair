@@ -1,4 +1,7 @@
 socketpair
+[![TravisCI](https://travis-ci.org/prep/socketpair.svg?branch=master)](https://travis-ci.org/prep/socketpair.svg?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/prep/socketpair)](https://goreportcard.com/report/github.com/prep/socketpair)
+[![GoDoc](https://godoc.org/github.com/prep/socketpair?status.svg)](https://godoc.org/github.com/prep/socketpair)
 ==========
 This is a simple package for Go that provides an interface to socketpair(2).
 
