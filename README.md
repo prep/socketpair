@@ -6,7 +6,7 @@ socketpair
 This is a simple package for Go that provides an interface to socketpair(2).
 
 Usage
---------
+-----
 ```go
 import "github.com/prep/socketpair"
 ```
