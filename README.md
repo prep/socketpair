@@ -33,3 +33,7 @@ func testSocketPair() error {
     return nil
 }
 ```
+
+License
+-------
+This software is distributed under the BSD-style license found in the LICENSE file.
